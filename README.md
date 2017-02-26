@@ -1,5 +1,4 @@
-# Cactus Dark
-
+# Cactus Dark with Czech translation
 A responsive, dark and simple [Hexo](http://hexo.io) theme for a personal website.
 
 :cactus: [Demo](https://probberechts.github.io/cactus-dark/)
@@ -101,7 +100,7 @@ Set the `rss` field in the theme's `_config.yml` to one of the following values:
 
 1. `rss: false` will totally disable rss (default).
 2. `rss: atom.xml` sets a specific feed link.
-3. `rss:`leave empty to use the [hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed) plugin. 
+3. `rss:`leave empty to use the [hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed) plugin.
 
 ### Analytics
 
